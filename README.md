@@ -1,6 +1,7 @@
 ### Next App
 
 ```sh
+# npm install @clerk/nextjs@5.0.1
 
 npx create-next-app@latest store
 ```
